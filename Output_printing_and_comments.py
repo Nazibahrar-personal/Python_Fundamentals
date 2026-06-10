@@ -10,7 +10,7 @@ print("2nd line")  #Prints outputs line after line sequentially
 print("I am",22)  #Comma separated print keeps a space between the datas (if they're different data types)
 
 
-print("Nazib"+"is"+"a"+"chill"+"guy")  #prints strings one after another
+print("Nazib"+"is"+"a"+"chill"+"guy")  #prints strings one after another [concatenation]
 
 
 print("1st line")
